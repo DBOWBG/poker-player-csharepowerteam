@@ -8,7 +8,8 @@ namespace Nancy.Simple
 
 		public static int BetRequest(JObject gameState)
 		{
-			//TODO: Use this method to return the value You want to bet
+            //TODO: Use this method to return the value You want to bet
+            System.Console.WriteLine("Betting now: 12");
 			return 12;
 		}
 
